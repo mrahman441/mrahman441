@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://github.com/mahbub623a/mahbub623a/blob/main/Coding.gif?raw=true"> 
 
-- 🌱 I’m currently learning **Competitive Programming and Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 
 - 📫 How to reach me **mrahman623a@gmail.com**
