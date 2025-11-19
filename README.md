@@ -83,8 +83,6 @@
   </a> 
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahbub623a&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub623a" /> </p>
-
 <h3 align="center">Github Stats 📈</h3>
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mahbub623a&show_icons=true&locale=en" alt="mahbub623a" />
@@ -93,3 +91,5 @@
 
 <h3 align="center">Github Activity</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub623a&" alt="mahbub623a" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahbub623a&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub623a" /> </p>
