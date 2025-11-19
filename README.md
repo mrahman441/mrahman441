@@ -83,7 +83,7 @@
   </a> 
 </p>
 
-<h3 align="center">Github Stats 📈</h3>
+<h3 align="center">Github Stats</h3>
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mahbub623a&show_icons=true&locale=en" alt="mahbub623a" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbub623a&show_icons=true&locale=en&layout=compact" alt="mahbub623a" />
