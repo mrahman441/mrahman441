@@ -5,9 +5,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://github.com/mrahman441/mrahman441/blob/main/Coding.gif?raw=true"> 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me **mrahman623a@gmail.com**
+- 📫 How to reach me **mrahman221441@gmail.com**
 
 - ⚡ Fun fact **I play a lot of video games 🎮**
 
