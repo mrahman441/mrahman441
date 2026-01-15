@@ -1,6 +1,6 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">Hi 👋, I'm Mahbubur Rahman</h1>
+<h1 align="center">Hi, I'm Mahbubur Rahman</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400px" src="https://github.com/mrahman441/mrahman441/blob/main/Coding.gif?raw=true"> 
