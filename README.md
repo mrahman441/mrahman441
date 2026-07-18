@@ -67,64 +67,81 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-### [ SatheCholo | Ride-Sharing & Carpooling Platform (In Progress) ](https://github.com/Maahhbuub/SatheCholo)
+<table>
+	<tr>
+		<td><a href="https://github.com/Maahhbuub/SatheCholo"><strong>SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)</strong></a></td>
+	</tr>
+</table>
 
-Building a bilingual (English & Bangla) ride-sharing platform supporting both intra-city rides and inter-city carpooling.
+<em>Tech: Node.js, Express.js, PostgreSQL, Redis, WebSocket, Firebase, Google Maps</em>
 
-- **Performance:** Designed a real-time ride-matching and chat system using WebSockets, reducing matching latency.
-- **Architecture:** Implementing scalable backend architecture with Redis caching and event-driven communication.
-- **Key Features:** Added safety features including identity verification, SOS emergency support, and AI-based harassment detection.
+- Building a bilingual (English & Bangla) ride-sharing platform supporting both intra-city rides and inter-city carpooling.
+- Implemented a real-time ride-matching and chat system using WebSockets, reducing matching latency.
+- Implementing scalable backend architecture with Redis caching and event-driven communication.
+- Added safety features including identity verification, SOS emergency support, and AI-based harassment detection.
 
-**Tech Stack:** Node.js, Express.js, PostgreSQL, Redis, WebSocket, Firebase, Google Maps <br>
-**Source Code:** [GitHub](https://github.com/Maahhbuub/SatheCholo)
+<br>
 
----
+<table>
+	<tr>
+		<td><a href="https://github.com/TashinParvez/direct-edge"><strong>DirectEdge — Agricultural Supply Chain Management System</strong></a></td>
+	</tr>
+</table>
 
-### [ DirectEdge | Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
+<em>Tech: Python, PHP, JavaScript, MySQL</em>
 
-Developed a 3-sided platform connecting farmers, distributors, and retailers to streamline supply chain operations.
+- Developed a 3-sided platform connecting farmers, distributors, and retailers to streamline supply chain operations.
+- Implemented real-time inventory tracking and demand forecasting using machine learning techniques.
+- Improved operational efficiency by reducing manual coordination and enabling data-driven decision making.
 
-- **Tech:** Implemented real-time inventory tracking and demand forecasting using machine learning techniques.
-- **Impact:** Improved operational efficiency by reducing manual coordination and enabling data-driven decision making.
+<br>
 
-**Tech Stack:** Python, PHP, JavaScript, MySQL <br>
-**Source Code:** [GitHub](https://github.com/TashinParvez/direct-edge)
+<table>
+	<tr>
+		<td><a href="https://github.com/Maahhbuub/Wanderlust"><strong>Wanderlust — Full-Stack Property Rental Platform</strong></a></td>
+		<td align="right">
+			<a href="https://wanderlust-ltah.onrender.com/">Live Demo</a>
+		</td>
+	</tr>
+</table>
 
----
+<em>Tech: Node.js, Express.js, MongoDB, Mongoose, Cloudinary, JavaScript, Bootstrap</em>
 
-### [ Cook Corner | Smart Cooking Assistant Platform ](https://github.com/TashinParvez/Cook-Corner)
+- Engineered a full-stack rental platform with secure authentication, role-based authorization, and RESTful APIs for managing listings, reviews, and users.
+- Designed scalable data models using MongoDB (Mongoose) with relational referencing for listings, users, and reviews, ensuring data consistency and efficient querying.
+- Integrated geolocation and cloud-based media storage (Cloudinary) to support map-based property discovery and optimized image handling for improved user experience.
 
-Developed a full-stack cooking assistant platform integrating recipe discovery, meal planning, nutrition tracking, and ingredient-based recommendations.
+<br>
 
-- **Key Features:** Designed advanced search and filtering system with dietary preference support (vegan, keto, gluten-free), improving personalization and usability.
-- **Architecture:** Architected a modular backend with relational database design handling complex many-to-many relationships, and integrated external APIs to enhance content and engagement.
+<table>
+	<tr>
+		<td><a href="https://github.com/TashinParvez/Cook-Corner"><strong>Cook Corner — Smart Cooking Assistant Platform</strong></a></td>
+	</tr>
+</table>
 
-**Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS, Bootstrap <br>
-**Source Code:** [GitHub](https://github.com/TashinParvez/Cook-Corner)
+<em>Tech: PHP, MySQL, JavaScript, HTML, CSS, Bootstrap</em>
 
----
+- Developed a full-stack cooking assistant platform integrating recipe discovery, meal planning, nutrition tracking, and ingredient-based recommendations.
+- Designed advanced search and filtering system with dietary preference support (vegan, keto, gluten-free), improving personalization and usability.
+- Architected a modular backend with relational database design handling complex many-to-many relationships, and integrated external APIs to enhance content and engagement.
 
-### [ Wanderlust | Full-Stack Property Rental Platform](https://github.com/Maahhbuub/Wanderlust)
+<br>
 
-Engineered a full-stack rental platform with secure authentication, role-based authorization, and RESTful APIs for managing listings, reviews, and users.
+<table>
+	<tr>
+		<td><a href="https://github.com/Maahhbuub/ExeCode"><strong>ExeCode — Online Competitive Programming Platform</strong></a></td>
+	</tr>
+</table>
 
-- **Data Models:** Designed scalable data models using MongoDB (Mongoose) with relational referencing for listings, users, and reviews, ensuring data consistency and efficient querying.
-- **Key Features:** Integrated geolocation and cloud-based media storage (Cloudinary) to support map-based property discovery and optimized image handling for improved user experience.
+<em>Tech: PHP, MySQL, JavaScript, HTML, CSS, Monaco Editor</em>
 
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, Cloudinary, JavaScript, Bootstrap <br>
-**Source Code:** [GitHub](https://github.com/Maahhbuub/Wanderlust) | **Live Demo:** [Link](https://wanderlust-ltah.onrender.com/)
+- Built a full-stack competitive programming platform with contest system, problem sets, and real-time leaderboard supporting dynamic user rankings.
+- Developed an in-browser IDE using Monaco Editor with multi-language support, enabling seamless code writing and execution workflow.
+- Designed scalable backend architecture with relational database modeling for users, problems, submissions, and contests, including automated evaluation and ranking logic.
 
----
+<br>
 
-### [ ExeCode | Online Competitive Programming Platform ](https://github.com/Maahhbuub/ExeCode)
-
-Built a full-stack competitive programming platform with contest system, problem sets, and real-time leaderboard supporting dynamic user rankings.
-
-- **Key Features:** Developed an in-browser IDE using Monaco Editor with multi-language support, enabling seamless code writing and execution workflow.
-- **Architecture:** Designed scalable backend architecture with relational database modeling for users, problems, submissions, and contests, including automated evaluation and ranking logic.
-
-**Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS, Monaco Editor <br>
-**Source Code:** [GitHub](https://github.com/Maahhbuub/ExeCode)
+[See more on GitHub Repo](https://github.com/Maahhbuub?tab=repositories)
 
 
 ## Connect With Me
