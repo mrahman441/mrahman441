@@ -67,11 +67,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-<table>
-	<tr>
-		<td><a href="https://github.com/Maahhbuub/SatheCholo"><strong>SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)</strong></a></td>
-	</tr>
-</table>
+### [SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)](https://github.com/Maahhbuub/SatheCholo)
 
 <em>Tech: Node.js, Express.js, PostgreSQL, Redis, WebSocket, Firebase, Google Maps</em>
 
@@ -82,11 +78,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-<table>
-	<tr>
-		<td><a href="https://github.com/TashinParvez/direct-edge"><strong>DirectEdge — Agricultural Supply Chain Management System</strong></a></td>
-	</tr>
-</table>
+### [DirectEdge — Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
 
 <em>Tech: Python, PHP, JavaScript, MySQL</em>
 
@@ -96,48 +88,15 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-<table>
-	<tr>
-		<td><a href="https://github.com/Maahhbuub/Wanderlust"><strong>Wanderlust — Full-Stack Property Rental Platform</strong></a></td>
-		<td align="right">
-			<a href="https://wanderlust-ltah.onrender.com/">Live Demo</a>
-		</td>
-	</tr>
-</table>
+### [Wanderlust — Full-Stack Property Rental Platform](https://github.com/Maahhbuub/Wanderlust)
+
+**Live Demo:** [wanderlust-ltah.onrender.com](https://wanderlust-ltah.onrender.com/)
 
 <em>Tech: Node.js, Express.js, MongoDB, Mongoose, Cloudinary, JavaScript, Bootstrap</em>
 
 - Engineered a full-stack rental platform with secure authentication, role-based authorization, and RESTful APIs for managing listings, reviews, and users.
 - Designed scalable data models using MongoDB (Mongoose) with relational referencing for listings, users, and reviews, ensuring data consistency and efficient querying.
 - Integrated geolocation and cloud-based media storage (Cloudinary) to support map-based property discovery and optimized image handling for improved user experience.
-
-<br>
-
-<table>
-	<tr>
-		<td><a href="https://github.com/TashinParvez/Cook-Corner"><strong>Cook Corner — Smart Cooking Assistant Platform</strong></a></td>
-	</tr>
-</table>
-
-<em>Tech: PHP, MySQL, JavaScript, HTML, CSS, Bootstrap</em>
-
-- Developed a full-stack cooking assistant platform integrating recipe discovery, meal planning, nutrition tracking, and ingredient-based recommendations.
-- Designed advanced search and filtering system with dietary preference support (vegan, keto, gluten-free), improving personalization and usability.
-- Architected a modular backend with relational database design handling complex many-to-many relationships, and integrated external APIs to enhance content and engagement.
-
-<br>
-
-<table>
-	<tr>
-		<td><a href="https://github.com/Maahhbuub/ExeCode"><strong>ExeCode — Online Competitive Programming Platform</strong></a></td>
-	</tr>
-</table>
-
-<em>Tech: PHP, MySQL, JavaScript, HTML, CSS, Monaco Editor</em>
-
-- Built a full-stack competitive programming platform with contest system, problem sets, and real-time leaderboard supporting dynamic user rankings.
-- Developed an in-browser IDE using Monaco Editor with multi-language support, enabling seamless code writing and execution workflow.
-- Designed scalable backend architecture with relational database modeling for users, problems, submissions, and contests, including automated evaluation and ranking logic.
 
 <br>
 
