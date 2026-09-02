@@ -92,7 +92,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)
+### SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)
 
 <em>Tech: Node.js, Express.js, PostgreSQL, WebSocket, Firebase, OpenStreetMap</em>
 
@@ -103,7 +103,7 @@ SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)
 
 <br>
 
-DirectEdge — Agricultural Supply Chain Management System
+### DirectEdge — Agricultural Supply Chain Management System
 
 **Source Code:** [Code](https://github.com/TashinParvez/direct-edge)
 
