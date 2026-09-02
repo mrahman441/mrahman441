@@ -67,7 +67,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-### [Ziplify — A URL Shortener](https://github.com/Maahhbuub/Ziplify)
+### Ziplify — A URL Shortener
 
 **Source Code:** [Backend](https://github.com/Maahhbuub/Ziplify-backend) | [Frontend](https://github.com/Maahhbuub/Ziplify-frontend) &nbsp;|&nbsp; **Live:** [ziplify.vercel.app](https://ziplify.vercel.app)
 
@@ -80,7 +80,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-### [Wanderlust — Full-Stack Property Rental Platform](https://github.com/Maahhbuub/Wanderlust)
+### Wanderlust — Full-Stack Property Rental Platform
 
 **Source Code:** [Code](https://github.com/Maahhbuub/Wanderlust) &nbsp;|&nbsp; **Live:** [wanderlust-ltah.onrender.com](https://wanderlust-ltah.onrender.com/)
 
@@ -92,7 +92,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-### [SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)](https://github.com/Maahhbuub/SatheCholo)
+SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)
 
 <em>Tech: Node.js, Express.js, PostgreSQL, WebSocket, Firebase, OpenStreetMap</em>
 
@@ -103,7 +103,7 @@ I actively participate in competitive programming contests to sharpen my problem
 
 <br>
 
-### [DirectEdge — Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
+DirectEdge — Agricultural Supply Chain Management System
 
 **Source Code:** [Code](https://github.com/TashinParvez/direct-edge)
 
