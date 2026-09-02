@@ -67,36 +67,51 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-### [SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)](https://github.com/Maahhbuub/SatheCholo)
+### [Ziplify — A URL Shortener](https://github.com/Maahhbuub/Ziplify)
 
-<em>Tech: Node.js, Express.js, PostgreSQL, Redis, WebSocket, Firebase, Google Maps</em>
+**Source Code:** [Backend](https://github.com/Maahhbuub/Ziplify-backend) | [Frontend](https://github.com/Maahhbuub/Ziplify-frontend) &nbsp;|&nbsp; **Live:** [ziplify.vercel.app](https://ziplify.vercel.app)
 
-- Building a bilingual (English & Bangla) ride-sharing platform supporting both intra-city rides and inter-city carpooling.
-- Implemented a real-time ride-matching and chat system using WebSockets, reducing matching latency.
-- Implementing scalable backend architecture with Redis caching and event-driven communication.
-- Added safety features including identity verification, SOS emergency support, and AI-based harassment detection.
+<em>Tech: React, Node.js, Express.js, TypeScript, PostgreSQL, Prisma, Redis, Vercel, Render</em>
 
-<br>
-
-### [DirectEdge — Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
-
-<em>Tech: Python, PHP, JavaScript, MySQL</em>
-
-- Developed a 3-sided platform connecting farmers, distributors, and retailers to streamline supply chain operations.
-- Implemented real-time inventory tracking and demand forecasting using machine learning techniques.
-- Improved operational efficiency by reducing manual coordination and enabling data-driven decision making.
+- Architected a Base62-encoded URL shortener with a Redis cache-aside pattern, cutting redirect latency by 45% (682ms → 376ms) on average, validated through load testing.
+- Implemented Redis-backed distributed rate limiting across independently deployed frontend (Vercel) and backend (Render) services to ensure consistent limits across instances.
+- Deployed backend with PostgreSQL (Neon) via Prisma ORM, using atomic sequence-based ID generation to avoid write contention without manual collision handling.
+- Resolved production issues spanning CORS configuration, cross-service routing via edge rewrites, and TypeScript runtime deployment on Render.
 
 <br>
 
 ### [Wanderlust — Full-Stack Property Rental Platform](https://github.com/Maahhbuub/Wanderlust)
 
-**Live Demo:** [wanderlust-ltah.onrender.com](https://wanderlust-ltah.onrender.com/)
+**Source Code:** [Code](https://github.com/Maahhbuub/Wanderlust) &nbsp;|&nbsp; **Live:** [wanderlust-ltah.onrender.com](https://wanderlust-ltah.onrender.com/)
 
 <em>Tech: Node.js, Express.js, MongoDB, Mongoose, Cloudinary, JavaScript, Bootstrap</em>
 
 - Engineered a full-stack rental platform with secure authentication, role-based authorization, and RESTful APIs for managing listings, reviews, and users.
 - Designed scalable data models using MongoDB (Mongoose) with relational referencing for listings, users, and reviews, ensuring data consistency and efficient querying.
 - Integrated geolocation and cloud-based media storage (Cloudinary) to support map-based property discovery and optimized image handling for improved user experience.
+
+<br>
+
+### [SatheCholo — Ride-Sharing & Carpooling Platform (In Progress)](https://github.com/Maahhbuub/SatheCholo)
+
+<em>Tech: Node.js, Express.js, PostgreSQL, WebSocket, Firebase, OpenStreetMap</em>
+
+- Building a bilingual (English & Bangla) ride-sharing platform supporting both intra-city rides and inter-city carpooling.
+- Implemented a real-time ride-matching and chat system using WebSockets, reducing matching latency.
+- Implementing scalable backend architecture with Express and event-driven communication.
+- Added safety features including SOS emergency support, and AI-based harassment detection.
+
+<br>
+
+### [DirectEdge — Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
+
+**Source Code:** [Code](https://github.com/TashinParvez/direct-edge)
+
+<em>Tech: Python, PHP, JavaScript, MySQL</em>
+
+- Developed a 3-sided platform connecting farmers, distributors, and retailers to streamline supply chain operations.
+- Implemented real-time inventory tracking and demand forecasting using machine learning techniques.
+- Improved operational efficiency by reducing manual coordination and enabling data-driven decision making.
 
 <br>
 
